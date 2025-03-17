@@ -1,5 +1,6 @@
 # Mac-specific files
 .DS_Store
+notebook_env
 
 # Tool-specific files
 .ipynb_checkpoints/
